@@ -19,8 +19,8 @@ learning as well.
 
 ### Currently Working On :
 A project I'm building using symfony, react, nginx, docker and mysql. <br>
-I'm really inexperienced in symfony but <br> by the end of the project I'm hoping to be comfortable about the
-core topics and increase my basic understanding of symfony
+I'm really inexperienced in symfony but by the end of the project I'm hoping to be <br>
+comfortable about thecore topics and increase my basic understanding of symfony
 
 
 My email address: akbiyik.ilker7@gmail.com
