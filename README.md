@@ -18,10 +18,8 @@ Even though most of my projects are about web development, I like exploring data
 learning as well. 
 
 ### Currently Working On :
-A project I'm building using symfony, react, nginx, docker and mysql. <br>
-I'm really inexperienced in symfony but by the end of the project I'm hoping to be <br>
-comfortable about thecore topics and increase my basic understanding of symfony
+My most recent projects are with python. I'm hoping to gain a better understanding of the python by developing projects using it. These projects include data science projects, simple AI projects and django web applications.
 
 
-My email address: akbiyik.ilker7@gmail.com
+My email address: ***akbiyik.ilker7@gmail.com***
 Feel free to contact me about anything :)
